@@ -1,0 +1,41 @@
+Level	Gene	Alterations	Cancer Types	Drugs (for therapeutic implications only)
+1	BRAF	V600E	All Solid Tumors (excluding Colorectal Cancer)	Dabrafenib + Trametinib
+1	NTRK1	Fusions	All Solid Tumors	Entrectinib
+1	NTRK1	Fusions	All Solid Tumors	Larotrectinib
+1	NTRK2	Fusions	All Solid Tumors	Entrectinib
+1	NTRK2	Fusions	All Solid Tumors	Larotrectinib
+1	NTRK3	Fusions	All Solid Tumors	Entrectinib
+1	NTRK3	Fusions	All Solid Tumors	Larotrectinib
+1	Other Biomarkers	Microsatellite Instability-High	All Solid Tumors	Pembrolizumab
+1	Other Biomarkers	Tumor Mutational Burden-High	All Solid Tumors	Pembrolizumab
+1	RET	Fusions	All Solid Tumors (excluding Thyroid Cancer, Non-Small Cell Lung Cancer)	Selpercatinib
+R1	NTRK1	G595R	All Solid Tumors	Larotrectinib
+R1	NTRK3	F617L	All Solid Tumors	Larotrectinib
+R1	NTRK3	G623R	All Solid Tumors	Larotrectinib
+R1	NTRK3	G696A	All Solid Tumors	Larotrectinib
+3	AKT1	E17K	Ovarian Cancer, Endometrial Cancer	AZD5363
+3	NRG1	Fusions	All Solid Tumors	Zenocutuzumab
+3	NTRK1	Fusions	All Solid Tumors	Repotrectinib
+3	NTRK2	Fusions	All Solid Tumors	Repotrectinib
+3	NTRK3	Fusions	All Solid Tumors	Repotrectinib
+3	TP53	Y220C	All Solid Tumors	PC14586
+4	ARID1A	Truncating Mutations	All Solid Tumors	PLX2853
+4	ARID1A	Truncating Mutations	All Solid Tumors	Tazemetostat
+4	BRAF	G464, G469A, G469R, G469V	All Solid Tumors	PLX8394
+4	BRAF	K601	All Solid Tumors	PLX8394
+4	BRAF	L597	All Solid Tumors	PLX8394
+4	CCNE1	Amplification	All Solid Tumors	RP-6306, BLU-222
+4	CDK12	Truncating Mutations	All Solid Tumors	Pembrolizumab, Nivolumab, Cemiplimab
+4	CDKN2A	Oncogenic Mutations	All Solid Tumors	Palbociclib, Ribociclib, Abemaciclib
+4	FGFR1	Oncogenic Mutations	All Solid Tumors	Debio1347, Infigratinib, Erdafitinib, AZD4547
+4	FGFR2	Oncogenic Mutations	All Solid Tumors	Debio1347, Infigratinib, Erdafitinib, AZD4547
+4	FGFR3	Oncogenic Mutations	All Solid Tumors	Debio1347, Infigratinib, Erdafitinib, AZD4547
+4	KRAS	G12D	All Solid Tumors	RMC-6236
+4	KRAS	Oncogenic Mutations	All Solid Tumors	Trametinib, Cobimetinib, Binimetinib
+4	MET	Fusions	All Solid Tumors	Crizotinib
+4	MTOR	Oncogenic Mutations	All Solid Tumors	Everolimus, Temsirolimus
+4	NF1	Oncogenic Mutations	All Solid Tumors	Trametinib, Cobimetinib
+4	PIK3CA	H1047R	All Solid Tumors (excluding Colorectal Cancer)	LOXO-783
+4	PIK3CA	Oncogenic Mutations	All Solid Tumors	RLY-2608
+4	PTEN	Oncogenic Mutations	All Solid Tumors	GSK2636771, AZD8186
+R2	NTRK1	G595R	All Solid Tumors	Entrectinib
