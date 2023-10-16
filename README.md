@@ -9,7 +9,7 @@ docker pull tensorflow/tensorflow:latest-gpu
 docker run --gpus all -it -p {server port}:{container port} -v {server directory path}:{container directory path} --name cancerGATE tensorflow/tensorflow:latest-gpu bash
 ```
 
-CancerGATE has the [dgl](https://www.dgl.ai/) in tensorflow backend as a dependency.
+CancerGATE has the [dgl](https://www.dgl.ai/) in [tensorflow backend](https://docs.dgl.ai/en/1.1.x/install/index.html#working-with-different-backends) as a dependency.
 To download the dgl package with the appropriate CUDA of the tensorflow docker, use the following code.
 ```angular2html
 pip install dgl-cu111 dglgo -f https://data.dgl.ai/wheels/repo.html
