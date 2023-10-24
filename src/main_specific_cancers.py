@@ -2,8 +2,7 @@ from gatev2_utils import *
 
 
 network_name = "humannet"
-cancer_list = ["pancancer",
-               "BRCA",
+cancer_list = ["BRCA",
                "BLCA",
                "LIHC",
                "KIRC",
